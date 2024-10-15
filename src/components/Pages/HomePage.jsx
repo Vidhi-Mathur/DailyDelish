@@ -92,7 +92,10 @@ export const HomePage = () => {
                             <div key={index} className="bg-white rounded-lg shadow-md p-3 hover:shadow-lg transition-shadow duration-200">
                                 <img src={product.image} alt={product.name} className="w-full h-40 object-cover rounded-md mb-2" />
                                 <h3 className="font-medium mb-1">{product.name}</h3>
-                                <p className="text-green-600 font-bold">&#8377;{product.price.toFixed(2)}</p>
+                                <div className='flex'>
+                                    <p className="text-green-600 font-bold mr-2">&#8377;{product.price.toFixed(2)}</p>
+                                    <p className='text-gray-500'>({product.measure})</p>
+                                </div>
                                 {isAuthenticated ? (
                                     existingItem ? (
                                         <div className="mt-2 flex items-center justify-center font-bold">

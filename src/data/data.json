@@ -6,10 +6,10 @@
       { "name": "Meat & Seafood", "image": "/assets/category/meatandseafood.jpg" }
     ],
     "featuredProducts": [
-      { "name": "Organic Apples", "price": 0.99, "image": "/assets/product/apples.jpg" },
-      { "name": "Fresh Milk", "price": 2.49, "image": "/assets/product/milk.jpg" },
-      { "name": "Whole Grain Bread", "price": 3.99, "image": "/assets/product/bread.jpg" },
-      { "name": "Free-Range Eggs", "price": 4.99, "image": "/assets/product/eggs.jpg" }
+      { "name": "Organic Apples", "price": 149, "image": "/assets/product/apples.jpg", "measure": "per kg" },
+      { "name": "Fresh Milk", "price": 60, "image": "/assets/product/milk.jpg", "measure": "per litre" },
+      { "name": "Whole Grain Bread", "price": 60, "image": "/assets/product/bread.jpg", "measure": "per packet" },
+      { "name": "Free-Range Eggs", "price": 70, "image": "/assets/product/eggs.jpg", "measure": "6 piece" }
     ]
 }
   
