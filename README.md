@@ -6,9 +6,9 @@ Project Setup Instructions
 ```bash
 npm install
 ```
-2. Start the Development Server
+2. Start the Development Server:
 
 ```bash
-npm run dev:
+npm run dev
 ```
-The default development server will run on port 5173.
+The default development server will run on port 5173
