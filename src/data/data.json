@@ -1,0 +1,15 @@
+{
+    "featuredCategories": [
+      { "name": "Fresh Produce", "image": "/assets/category/freshproduce.jpg" },
+      { "name": "Dairy & Eggs", "image": "/assets/category/dairyandeggs.jpg" },
+      { "name": "Bakery", "image": "/assets/category/bakery.jpg" },
+      { "name": "Meat & Seafood", "image": "/assets/category/meatandseafood.jpg" }
+    ],
+    "featuredProducts": [
+      { "name": "Organic Apples", "price": 0.99, "image": "/assets/product/apples.jpg" },
+      { "name": "Fresh Milk", "price": 2.49, "image": "/assets/product/milk.jpg" },
+      { "name": "Whole Grain Bread", "price": 3.99, "image": "/assets/product/bread.jpg" },
+      { "name": "Free-Range Eggs", "price": 4.99, "image": "/assets/product/eggs.jpg" }
+    ]
+}
+  
